@@ -61,7 +61,7 @@ function Signup({ setShowLogin }) {
                     onClick={handleSignup}
                     className="w-full bg-indigo-600 text-white p-3 rounded-lg"
                 >
-                    Signup
+                    Signup here
                 </button>
 
                 <p className="text-center mt-4">

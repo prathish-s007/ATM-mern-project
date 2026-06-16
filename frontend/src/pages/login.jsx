@@ -55,7 +55,7 @@ function Login({ setUser, setShowLogin }) {
             type="submit"
             className="w-full bg-indigo-600 hover:bg-indigo-700 text-white py-3 rounded-lg"
           >
-            Login
+            Login here
           </button>
         </form>
 
